@@ -1,0 +1,250 @@
+2025-06-24 23:51:14 — INFO — Operation started for uid: aea9cbe2-5dee-409a-bf20-e52de9c2b731
+2025-06-24 23:51:42 — INFO — Downloaded video: https://www.youtube.com/watch?v=ebmAOcnUUaw
+2025-06-24 23:51:42 — INFO — Downloaded video path: /home/bhishan/assessmentaudioaccentclassification/downloads/aea9cbe2-5dee-409a-bf20-e52de9c2b731.mp4
+2025-06-24 23:51:45 — INFO — Extracted audio path: /home/bhishan/assessmentaudioaccentclassification/audios/aea9cbe2-5dee-409a-bf20-e52de9c2b731.wav
+2025-06-24 23:51:45 — INFO — Total chunks: 121 for audio: /home/bhishan/assessmentaudioaccentclassification/audios/aea9cbe2-5dee-409a-bf20-e52de9c2b731.wav
+2025-06-24 23:51:45 — INFO — Processing chunk 1/121 | Start: 0 | End: 160000 | Samples: 160000
+2025-06-24 23:51:47 — INFO — Chunk 1 predicted accent: us | Confidence: 78.86%
+2025-06-24 23:51:47 — INFO — Processing chunk 2/121 | Start: 160000 | End: 320000 | Samples: 160000
+2025-06-24 23:51:49 — INFO — Chunk 2 predicted accent: us | Confidence: 70.20%
+2025-06-24 23:51:49 — INFO — Processing chunk 3/121 | Start: 320000 | End: 480000 | Samples: 160000
+2025-06-24 23:51:51 — INFO — Chunk 3 predicted accent: us | Confidence: 74.25%
+2025-06-24 23:51:51 — INFO — Processing chunk 4/121 | Start: 480000 | End: 640000 | Samples: 160000
+2025-06-24 23:51:52 — INFO — Chunk 4 predicted accent: us | Confidence: 83.78%
+2025-06-24 23:51:52 — INFO — Processing chunk 5/121 | Start: 640000 | End: 800000 | Samples: 160000
+2025-06-24 23:51:55 — INFO — Chunk 5 predicted accent: us | Confidence: 75.62%
+2025-06-24 23:51:55 — INFO — Processing chunk 6/121 | Start: 800000 | End: 960000 | Samples: 160000
+2025-06-24 23:51:57 — INFO — Chunk 6 predicted accent: us | Confidence: 66.02%
+2025-06-24 23:51:57 — INFO — Processing chunk 7/121 | Start: 960000 | End: 1120000 | Samples: 160000
+2025-06-24 23:51:59 — INFO — Chunk 7 predicted accent: canada | Confidence: 80.32%
+2025-06-24 23:51:59 — INFO — Processing chunk 8/121 | Start: 1120000 | End: 1280000 | Samples: 160000
+2025-06-24 23:52:02 — INFO — Chunk 8 predicted accent: us | Confidence: 64.32%
+2025-06-24 23:52:02 — INFO — Processing chunk 9/121 | Start: 1280000 | End: 1440000 | Samples: 160000
+2025-06-24 23:52:04 — INFO — Chunk 9 predicted accent: us | Confidence: 61.30%
+2025-06-24 23:52:04 — INFO — Processing chunk 10/121 | Start: 1440000 | End: 1600000 | Samples: 160000
+2025-06-24 23:52:06 — INFO — Chunk 10 predicted accent: us | Confidence: 80.48%
+2025-06-24 23:52:06 — INFO — Processing chunk 11/121 | Start: 1600000 | End: 1760000 | Samples: 160000
+2025-06-24 23:52:09 — INFO — Chunk 11 predicted accent: canada | Confidence: 51.94%
+2025-06-24 23:52:09 — INFO — Processing chunk 12/121 | Start: 1760000 | End: 1920000 | Samples: 160000
+2025-06-24 23:52:11 — INFO — Chunk 12 predicted accent: us | Confidence: 81.21%
+2025-06-24 23:52:11 — INFO — Processing chunk 13/121 | Start: 1920000 | End: 2080000 | Samples: 160000
+2025-06-24 23:52:13 — INFO — Chunk 13 predicted accent: us | Confidence: 72.62%
+2025-06-24 23:52:13 — INFO — Processing chunk 14/121 | Start: 2080000 | End: 2240000 | Samples: 160000
+2025-06-24 23:52:16 — INFO — Chunk 14 predicted accent: canada | Confidence: 53.88%
+2025-06-24 23:52:16 — INFO — Processing chunk 15/121 | Start: 2240000 | End: 2400000 | Samples: 160000
+2025-06-24 23:52:18 — INFO — Chunk 15 predicted accent: us | Confidence: 76.45%
+2025-06-24 23:52:18 — INFO — Processing chunk 16/121 | Start: 2400000 | End: 2560000 | Samples: 160000
+2025-06-24 23:52:21 — INFO — Chunk 16 predicted accent: canada | Confidence: 52.01%
+2025-06-24 23:52:21 — INFO — Processing chunk 17/121 | Start: 2560000 | End: 2720000 | Samples: 160000
+2025-06-24 23:52:23 — INFO — Chunk 17 predicted accent: us | Confidence: 76.23%
+2025-06-24 23:52:23 — INFO — Processing chunk 18/121 | Start: 2720000 | End: 2880000 | Samples: 160000
+2025-06-24 23:52:25 — INFO — Chunk 18 predicted accent: us | Confidence: 51.05%
+2025-06-24 23:52:25 — INFO — Processing chunk 19/121 | Start: 2880000 | End: 3040000 | Samples: 160000
+2025-06-24 23:52:27 — INFO — Chunk 19 predicted accent: us | Confidence: 69.26%
+2025-06-24 23:52:27 — INFO — Processing chunk 20/121 | Start: 3040000 | End: 3200000 | Samples: 160000
+2025-06-24 23:52:30 — INFO — Chunk 20 predicted accent: us | Confidence: 69.93%
+2025-06-24 23:52:30 — INFO — Processing chunk 21/121 | Start: 3200000 | End: 3360000 | Samples: 160000
+2025-06-24 23:52:32 — INFO — Chunk 21 predicted accent: us | Confidence: 56.39%
+2025-06-24 23:52:32 — INFO — Processing chunk 22/121 | Start: 3360000 | End: 3520000 | Samples: 160000
+2025-06-24 23:52:36 — INFO — Chunk 22 predicted accent: us | Confidence: 70.93%
+2025-06-24 23:52:36 — INFO — Processing chunk 23/121 | Start: 3520000 | End: 3680000 | Samples: 160000
+2025-06-24 23:52:38 — INFO — Chunk 23 predicted accent: us | Confidence: 75.87%
+2025-06-24 23:52:38 — INFO — Processing chunk 24/121 | Start: 3680000 | End: 3840000 | Samples: 160000
+2025-06-24 23:52:41 — INFO — Chunk 24 predicted accent: us | Confidence: 61.50%
+2025-06-24 23:52:41 — INFO — Processing chunk 25/121 | Start: 3840000 | End: 4000000 | Samples: 160000
+2025-06-24 23:52:43 — INFO — Chunk 25 predicted accent: us | Confidence: 70.20%
+2025-06-24 23:52:43 — INFO — Processing chunk 26/121 | Start: 4000000 | End: 4160000 | Samples: 160000
+2025-06-24 23:52:46 — INFO — Chunk 26 predicted accent: us | Confidence: 68.69%
+2025-06-24 23:52:46 — INFO — Processing chunk 27/121 | Start: 4160000 | End: 4320000 | Samples: 160000
+2025-06-24 23:52:49 — INFO — Chunk 27 predicted accent: canada | Confidence: 60.63%
+2025-06-24 23:52:49 — INFO — Processing chunk 28/121 | Start: 4320000 | End: 4480000 | Samples: 160000
+2025-06-24 23:52:52 — INFO — Chunk 28 predicted accent: us | Confidence: 65.67%
+2025-06-24 23:52:52 — INFO — Processing chunk 29/121 | Start: 4480000 | End: 4640000 | Samples: 160000
+2025-06-24 23:52:54 — INFO — Chunk 29 predicted accent: us | Confidence: 76.18%
+2025-06-24 23:52:54 — INFO — Processing chunk 30/121 | Start: 4640000 | End: 4800000 | Samples: 160000
+2025-06-24 23:52:57 — INFO — Chunk 30 predicted accent: us | Confidence: 71.20%
+2025-06-24 23:52:57 — INFO — Processing chunk 31/121 | Start: 4800000 | End: 4960000 | Samples: 160000
+2025-06-24 23:53:00 — INFO — Chunk 31 predicted accent: canada | Confidence: 70.79%
+2025-06-24 23:53:00 — INFO — Processing chunk 32/121 | Start: 4960000 | End: 5120000 | Samples: 160000
+2025-06-24 23:53:02 — INFO — Chunk 32 predicted accent: us | Confidence: 59.90%
+2025-06-24 23:53:02 — INFO — Processing chunk 33/121 | Start: 5120000 | End: 5280000 | Samples: 160000
+2025-06-24 23:53:05 — INFO — Chunk 33 predicted accent: us | Confidence: 71.72%
+2025-06-24 23:53:05 — INFO — Processing chunk 34/121 | Start: 5280000 | End: 5440000 | Samples: 160000
+2025-06-24 23:53:07 — INFO — Chunk 34 predicted accent: us | Confidence: 77.63%
+2025-06-24 23:53:07 — INFO — Processing chunk 35/121 | Start: 5440000 | End: 5600000 | Samples: 160000
+2025-06-24 23:53:09 — INFO — Chunk 35 predicted accent: us | Confidence: 69.98%
+2025-06-24 23:53:09 — INFO — Processing chunk 36/121 | Start: 5600000 | End: 5760000 | Samples: 160000
+2025-06-24 23:53:12 — INFO — Chunk 36 predicted accent: canada | Confidence: 54.36%
+2025-06-24 23:53:12 — INFO — Processing chunk 37/121 | Start: 5760000 | End: 5920000 | Samples: 160000
+2025-06-24 23:53:15 — INFO — Chunk 37 predicted accent: us | Confidence: 70.47%
+2025-06-24 23:53:15 — INFO — Processing chunk 38/121 | Start: 5920000 | End: 6080000 | Samples: 160000
+2025-06-24 23:53:17 — INFO — Chunk 38 predicted accent: canada | Confidence: 51.18%
+2025-06-24 23:53:17 — INFO — Processing chunk 39/121 | Start: 6080000 | End: 6240000 | Samples: 160000
+2025-06-24 23:53:20 — INFO — Chunk 39 predicted accent: us | Confidence: 52.37%
+2025-06-24 23:53:20 — INFO — Processing chunk 40/121 | Start: 6240000 | End: 6400000 | Samples: 160000
+2025-06-24 23:53:23 — INFO — Chunk 40 predicted accent: canada | Confidence: 63.77%
+2025-06-24 23:53:23 — INFO — Processing chunk 41/121 | Start: 6400000 | End: 6560000 | Samples: 160000
+2025-06-24 23:53:25 — INFO — Chunk 41 predicted accent: us | Confidence: 77.85%
+2025-06-24 23:53:25 — INFO — Processing chunk 42/121 | Start: 6560000 | End: 6720000 | Samples: 160000
+2025-06-24 23:53:28 — INFO — Chunk 42 predicted accent: canada | Confidence: 50.47%
+2025-06-24 23:53:28 — INFO — Processing chunk 43/121 | Start: 6720000 | End: 6880000 | Samples: 160000
+2025-06-24 23:53:31 — INFO — Chunk 43 predicted accent: canada | Confidence: 80.79%
+2025-06-24 23:53:31 — INFO — Processing chunk 44/121 | Start: 6880000 | End: 7040000 | Samples: 160000
+2025-06-24 23:53:34 — INFO — Chunk 44 predicted accent: us | Confidence: 76.58%
+2025-06-24 23:53:34 — INFO — Processing chunk 45/121 | Start: 7040000 | End: 7200000 | Samples: 160000
+2025-06-24 23:53:36 — INFO — Chunk 45 predicted accent: us | Confidence: 76.29%
+2025-06-24 23:53:36 — INFO — Processing chunk 46/121 | Start: 7200000 | End: 7360000 | Samples: 160000
+2025-06-24 23:53:39 — INFO — Chunk 46 predicted accent: us | Confidence: 80.84%
+2025-06-24 23:53:39 — INFO — Processing chunk 47/121 | Start: 7360000 | End: 7520000 | Samples: 160000
+2025-06-24 23:53:41 — INFO — Chunk 47 predicted accent: us | Confidence: 74.91%
+2025-06-24 23:53:41 — INFO — Processing chunk 48/121 | Start: 7520000 | End: 7680000 | Samples: 160000
+2025-06-24 23:53:43 — INFO — Chunk 48 predicted accent: canada | Confidence: 84.20%
+2025-06-24 23:53:43 — INFO — Processing chunk 49/121 | Start: 7680000 | End: 7840000 | Samples: 160000
+2025-06-24 23:53:46 — INFO — Chunk 49 predicted accent: us | Confidence: 56.15%
+2025-06-24 23:53:46 — INFO — Processing chunk 50/121 | Start: 7840000 | End: 8000000 | Samples: 160000
+2025-06-24 23:53:48 — INFO — Chunk 50 predicted accent: us | Confidence: 83.52%
+2025-06-24 23:53:48 — INFO — Processing chunk 51/121 | Start: 8000000 | End: 8160000 | Samples: 160000
+2025-06-24 23:53:50 — INFO — Chunk 51 predicted accent: canada | Confidence: 63.01%
+2025-06-24 23:53:50 — INFO — Processing chunk 52/121 | Start: 8160000 | End: 8320000 | Samples: 160000
+2025-06-24 23:53:53 — INFO — Chunk 52 predicted accent: us | Confidence: 72.87%
+2025-06-24 23:53:53 — INFO — Processing chunk 53/121 | Start: 8320000 | End: 8480000 | Samples: 160000
+2025-06-24 23:53:55 — INFO — Chunk 53 predicted accent: us | Confidence: 75.90%
+2025-06-24 23:53:55 — INFO — Processing chunk 54/121 | Start: 8480000 | End: 8640000 | Samples: 160000
+2025-06-24 23:53:57 — INFO — Chunk 54 predicted accent: us | Confidence: 84.88%
+2025-06-24 23:53:57 — INFO — Processing chunk 55/121 | Start: 8640000 | End: 8800000 | Samples: 160000
+2025-06-24 23:53:59 — INFO — Chunk 55 predicted accent: us | Confidence: 70.22%
+2025-06-24 23:53:59 — INFO — Processing chunk 56/121 | Start: 8800000 | End: 8960000 | Samples: 160000
+2025-06-24 23:54:03 — INFO — Chunk 56 predicted accent: canada | Confidence: 58.39%
+2025-06-24 23:54:03 — INFO — Processing chunk 57/121 | Start: 8960000 | End: 9120000 | Samples: 160000
+2025-06-24 23:54:05 — INFO — Chunk 57 predicted accent: us | Confidence: 69.19%
+2025-06-24 23:54:05 — INFO — Processing chunk 58/121 | Start: 9120000 | End: 9280000 | Samples: 160000
+2025-06-24 23:54:08 — INFO — Chunk 58 predicted accent: us | Confidence: 67.20%
+2025-06-24 23:54:08 — INFO — Processing chunk 59/121 | Start: 9280000 | End: 9440000 | Samples: 160000
+2025-06-24 23:54:11 — INFO — Chunk 59 predicted accent: canada | Confidence: 60.67%
+2025-06-24 23:54:11 — INFO — Processing chunk 60/121 | Start: 9440000 | End: 9600000 | Samples: 160000
+2025-06-24 23:54:13 — INFO — Chunk 60 predicted accent: canada | Confidence: 67.44%
+2025-06-24 23:54:13 — INFO — Processing chunk 61/121 | Start: 9600000 | End: 9760000 | Samples: 160000
+2025-06-24 23:54:16 — INFO — Chunk 61 predicted accent: canada | Confidence: 57.53%
+2025-06-24 23:54:16 — INFO — Processing chunk 62/121 | Start: 9760000 | End: 9920000 | Samples: 160000
+2025-06-24 23:54:18 — INFO — Chunk 62 predicted accent: us | Confidence: 67.66%
+2025-06-24 23:54:18 — INFO — Processing chunk 63/121 | Start: 9920000 | End: 10080000 | Samples: 160000
+2025-06-24 23:54:20 — INFO — Chunk 63 predicted accent: canada | Confidence: 68.45%
+2025-06-24 23:54:20 — INFO — Processing chunk 64/121 | Start: 10080000 | End: 10240000 | Samples: 160000
+2025-06-24 23:54:22 — INFO — Chunk 64 predicted accent: canada | Confidence: 85.15%
+2025-06-24 23:54:22 — INFO — Processing chunk 65/121 | Start: 10240000 | End: 10400000 | Samples: 160000
+2025-06-24 23:54:24 — INFO — Chunk 65 predicted accent: us | Confidence: 76.48%
+2025-06-24 23:54:24 — INFO — Processing chunk 66/121 | Start: 10400000 | End: 10560000 | Samples: 160000
+2025-06-24 23:54:27 — INFO — Chunk 66 predicted accent: us | Confidence: 62.42%
+2025-06-24 23:54:27 — INFO — Processing chunk 67/121 | Start: 10560000 | End: 10720000 | Samples: 160000
+2025-06-24 23:54:29 — INFO — Chunk 67 predicted accent: canada | Confidence: 50.69%
+2025-06-24 23:54:29 — INFO — Processing chunk 68/121 | Start: 10720000 | End: 10880000 | Samples: 160000
+2025-06-24 23:54:32 — INFO — Chunk 68 predicted accent: us | Confidence: 70.72%
+2025-06-24 23:54:32 — INFO — Processing chunk 69/121 | Start: 10880000 | End: 11040000 | Samples: 160000
+2025-06-24 23:54:34 — INFO — Chunk 69 predicted accent: canada | Confidence: 60.60%
+2025-06-24 23:54:34 — INFO — Processing chunk 70/121 | Start: 11040000 | End: 11200000 | Samples: 160000
+2025-06-24 23:54:36 — INFO — Chunk 70 predicted accent: us | Confidence: 75.90%
+2025-06-24 23:54:36 — INFO — Processing chunk 71/121 | Start: 11200000 | End: 11360000 | Samples: 160000
+2025-06-24 23:54:39 — INFO — Chunk 71 predicted accent: us | Confidence: 69.28%
+2025-06-24 23:54:39 — INFO — Processing chunk 72/121 | Start: 11360000 | End: 11520000 | Samples: 160000
+2025-06-24 23:54:41 — INFO — Chunk 72 predicted accent: us | Confidence: 51.66%
+2025-06-24 23:54:41 — INFO — Processing chunk 73/121 | Start: 11520000 | End: 11680000 | Samples: 160000
+2025-06-24 23:54:43 — INFO — Chunk 73 predicted accent: canada | Confidence: 51.88%
+2025-06-24 23:54:43 — INFO — Processing chunk 74/121 | Start: 11680000 | End: 11840000 | Samples: 160000
+2025-06-24 23:54:46 — INFO — Chunk 74 predicted accent: us | Confidence: 78.44%
+2025-06-24 23:54:46 — INFO — Processing chunk 75/121 | Start: 11840000 | End: 12000000 | Samples: 160000
+2025-06-24 23:54:48 — INFO — Chunk 75 predicted accent: canada | Confidence: 65.07%
+2025-06-24 23:54:48 — INFO — Processing chunk 76/121 | Start: 12000000 | End: 12160000 | Samples: 160000
+2025-06-24 23:54:50 — INFO — Chunk 76 predicted accent: us | Confidence: 65.70%
+2025-06-24 23:54:50 — INFO — Processing chunk 77/121 | Start: 12160000 | End: 12320000 | Samples: 160000
+2025-06-24 23:54:52 — INFO — Chunk 77 predicted accent: us | Confidence: 75.27%
+2025-06-24 23:54:52 — INFO — Processing chunk 78/121 | Start: 12320000 | End: 12480000 | Samples: 160000
+2025-06-24 23:54:55 — INFO — Chunk 78 predicted accent: us | Confidence: 54.44%
+2025-06-24 23:54:55 — INFO — Processing chunk 79/121 | Start: 12480000 | End: 12640000 | Samples: 160000
+2025-06-24 23:54:57 — INFO — Chunk 79 predicted accent: us | Confidence: 76.67%
+2025-06-24 23:54:57 — INFO — Processing chunk 80/121 | Start: 12640000 | End: 12800000 | Samples: 160000
+2025-06-24 23:55:00 — INFO — Chunk 80 predicted accent: us | Confidence: 84.78%
+2025-06-24 23:55:00 — INFO — Processing chunk 81/121 | Start: 12800000 | End: 12960000 | Samples: 160000
+2025-06-24 23:55:03 — INFO — Chunk 81 predicted accent: us | Confidence: 77.09%
+2025-06-24 23:55:03 — INFO — Processing chunk 82/121 | Start: 12960000 | End: 13120000 | Samples: 160000
+2025-06-24 23:55:05 — INFO — Chunk 82 predicted accent: canada | Confidence: 88.91%
+2025-06-24 23:55:05 — INFO — Processing chunk 83/121 | Start: 13120000 | End: 13280000 | Samples: 160000
+2025-06-24 23:55:08 — INFO — Chunk 83 predicted accent: canada | Confidence: 65.26%
+2025-06-24 23:55:08 — INFO — Processing chunk 84/121 | Start: 13280000 | End: 13440000 | Samples: 160000
+2025-06-24 23:55:11 — INFO — Chunk 84 predicted accent: us | Confidence: 64.97%
+2025-06-24 23:55:11 — INFO — Processing chunk 85/121 | Start: 13440000 | End: 13600000 | Samples: 160000
+2025-06-24 23:55:15 — INFO — Chunk 85 predicted accent: us | Confidence: 75.00%
+2025-06-24 23:55:15 — INFO — Processing chunk 86/121 | Start: 13600000 | End: 13760000 | Samples: 160000
+2025-06-24 23:55:17 — INFO — Chunk 86 predicted accent: us | Confidence: 81.02%
+2025-06-24 23:55:17 — INFO — Processing chunk 87/121 | Start: 13760000 | End: 13920000 | Samples: 160000
+2025-06-24 23:55:19 — INFO — Chunk 87 predicted accent: us | Confidence: 74.20%
+2025-06-24 23:55:19 — INFO — Processing chunk 88/121 | Start: 13920000 | End: 14080000 | Samples: 160000
+2025-06-24 23:55:21 — INFO — Chunk 88 predicted accent: us | Confidence: 68.40%
+2025-06-24 23:55:21 — INFO — Processing chunk 89/121 | Start: 14080000 | End: 14240000 | Samples: 160000
+2025-06-24 23:55:23 — INFO — Chunk 89 predicted accent: us | Confidence: 60.37%
+2025-06-24 23:55:23 — INFO — Processing chunk 90/121 | Start: 14240000 | End: 14400000 | Samples: 160000
+2025-06-24 23:55:25 — INFO — Chunk 90 predicted accent: us | Confidence: 75.92%
+2025-06-24 23:55:25 — INFO — Processing chunk 91/121 | Start: 14400000 | End: 14560000 | Samples: 160000
+2025-06-24 23:55:27 — INFO — Chunk 91 predicted accent: us | Confidence: 77.85%
+2025-06-24 23:55:27 — INFO — Processing chunk 92/121 | Start: 14560000 | End: 14720000 | Samples: 160000
+2025-06-24 23:55:29 — INFO — Chunk 92 predicted accent: us | Confidence: 78.18%
+2025-06-24 23:55:29 — INFO — Processing chunk 93/121 | Start: 14720000 | End: 14880000 | Samples: 160000
+2025-06-24 23:55:30 — INFO — Chunk 93 predicted accent: us | Confidence: 65.90%
+2025-06-24 23:55:30 — INFO — Processing chunk 94/121 | Start: 14880000 | End: 15040000 | Samples: 160000
+2025-06-24 23:55:33 — INFO — Chunk 94 predicted accent: canada | Confidence: 66.43%
+2025-06-24 23:55:33 — INFO — Processing chunk 95/121 | Start: 15040000 | End: 15200000 | Samples: 160000
+2025-06-24 23:55:35 — INFO — Chunk 95 predicted accent: canada | Confidence: 64.25%
+2025-06-24 23:55:35 — INFO — Processing chunk 96/121 | Start: 15200000 | End: 15360000 | Samples: 160000
+2025-06-24 23:55:39 — INFO — Chunk 96 predicted accent: us | Confidence: 67.74%
+2025-06-24 23:55:39 — INFO — Processing chunk 97/121 | Start: 15360000 | End: 15520000 | Samples: 160000
+2025-06-24 23:55:42 — INFO — Chunk 97 predicted accent: canada | Confidence: 88.36%
+2025-06-24 23:55:42 — INFO — Processing chunk 98/121 | Start: 15520000 | End: 15680000 | Samples: 160000
+2025-06-24 23:55:44 — INFO — Chunk 98 predicted accent: us | Confidence: 69.54%
+2025-06-24 23:55:44 — INFO — Processing chunk 99/121 | Start: 15680000 | End: 15840000 | Samples: 160000
+2025-06-24 23:55:46 — INFO — Chunk 99 predicted accent: us | Confidence: 83.59%
+2025-06-24 23:55:46 — INFO — Processing chunk 100/121 | Start: 15840000 | End: 16000000 | Samples: 160000
+2025-06-24 23:55:48 — INFO — Chunk 100 predicted accent: canada | Confidence: 76.28%
+2025-06-24 23:55:48 — INFO — Processing chunk 101/121 | Start: 16000000 | End: 16160000 | Samples: 160000
+2025-06-24 23:55:50 — INFO — Chunk 101 predicted accent: us | Confidence: 79.99%
+2025-06-24 23:55:50 — INFO — Processing chunk 102/121 | Start: 16160000 | End: 16320000 | Samples: 160000
+2025-06-24 23:55:52 — INFO — Chunk 102 predicted accent: us | Confidence: 71.32%
+2025-06-24 23:55:52 — INFO — Processing chunk 103/121 | Start: 16320000 | End: 16480000 | Samples: 160000
+2025-06-24 23:55:54 — INFO — Chunk 103 predicted accent: us | Confidence: 63.68%
+2025-06-24 23:55:54 — INFO — Processing chunk 104/121 | Start: 16480000 | End: 16640000 | Samples: 160000
+2025-06-24 23:55:56 — INFO — Chunk 104 predicted accent: us | Confidence: 80.73%
+2025-06-24 23:55:56 — INFO — Processing chunk 105/121 | Start: 16640000 | End: 16800000 | Samples: 160000
+2025-06-24 23:55:59 — INFO — Chunk 105 predicted accent: us | Confidence: 54.13%
+2025-06-24 23:55:59 — INFO — Processing chunk 106/121 | Start: 16800000 | End: 16960000 | Samples: 160000
+2025-06-24 23:56:03 — INFO — Chunk 106 predicted accent: us | Confidence: 64.98%
+2025-06-24 23:56:03 — INFO — Processing chunk 107/121 | Start: 16960000 | End: 17120000 | Samples: 160000
+2025-06-24 23:56:05 — INFO — Chunk 107 predicted accent: us | Confidence: 57.85%
+2025-06-24 23:56:05 — INFO — Processing chunk 108/121 | Start: 17120000 | End: 17280000 | Samples: 160000
+2025-06-24 23:56:08 — INFO — Chunk 108 predicted accent: canada | Confidence: 55.11%
+2025-06-24 23:56:08 — INFO — Processing chunk 109/121 | Start: 17280000 | End: 17440000 | Samples: 160000
+2025-06-24 23:56:10 — INFO — Chunk 109 predicted accent: us | Confidence: 73.90%
+2025-06-24 23:56:10 — INFO — Processing chunk 110/121 | Start: 17440000 | End: 17600000 | Samples: 160000
+2025-06-24 23:56:12 — INFO — Chunk 110 predicted accent: canada | Confidence: 60.19%
+2025-06-24 23:56:12 — INFO — Processing chunk 111/121 | Start: 17600000 | End: 17760000 | Samples: 160000
+2025-06-24 23:56:15 — INFO — Chunk 111 predicted accent: us | Confidence: 69.23%
+2025-06-24 23:56:15 — INFO — Processing chunk 112/121 | Start: 17760000 | End: 17920000 | Samples: 160000
+2025-06-24 23:56:17 — INFO — Chunk 112 predicted accent: us | Confidence: 56.32%
+2025-06-24 23:56:17 — INFO — Processing chunk 113/121 | Start: 17920000 | End: 18080000 | Samples: 160000
+2025-06-24 23:56:20 — INFO — Chunk 113 predicted accent: us | Confidence: 54.92%
+2025-06-24 23:56:20 — INFO — Processing chunk 114/121 | Start: 18080000 | End: 18240000 | Samples: 160000
+2025-06-24 23:56:22 — INFO — Chunk 114 predicted accent: us | Confidence: 73.74%
+2025-06-24 23:56:22 — INFO — Processing chunk 115/121 | Start: 18240000 | End: 18400000 | Samples: 160000
+2025-06-24 23:56:25 — INFO — Chunk 115 predicted accent: us | Confidence: 82.39%
+2025-06-24 23:56:25 — INFO — Processing chunk 116/121 | Start: 18400000 | End: 18560000 | Samples: 160000
+2025-06-24 23:56:27 — INFO — Chunk 116 predicted accent: us | Confidence: 58.10%
+2025-06-24 23:56:27 — INFO — Processing chunk 117/121 | Start: 18560000 | End: 18720000 | Samples: 160000
+2025-06-24 23:56:30 — INFO — Chunk 117 predicted accent: canada | Confidence: 58.26%
+2025-06-24 23:56:30 — INFO — Processing chunk 118/121 | Start: 18720000 | End: 18880000 | Samples: 160000
+2025-06-24 23:56:32 — INFO — Chunk 118 predicted accent: canada | Confidence: 64.38%
+2025-06-24 23:56:32 — INFO — Processing chunk 119/121 | Start: 18880000 | End: 19040000 | Samples: 160000
+2025-06-24 23:56:35 — INFO — Chunk 119 predicted accent: us | Confidence: 75.84%
+2025-06-24 23:56:35 — INFO — Processing chunk 120/121 | Start: 19040000 | End: 19200000 | Samples: 160000
+2025-06-24 23:56:37 — INFO — Chunk 120 predicted accent: indian | Confidence: 85.51%
+2025-06-24 23:56:37 — INFO — Processing chunk 121/121 | Start: 19200000 | End: 19232067 | Samples: 32067
+2025-06-24 23:56:38 — INFO — Chunk 121 predicted accent: england | Confidence: 33.60%
+2025-06-24 23:56:38 — INFO — Final Prediction: us | Confidence: 60.12%
+2025-06-24 23:56:38 — INFO — Max chunk confidence: 88.91% | Avg chunk confidence: 68.87%
+2025-06-24 23:56:38 — INFO — Successfully processed and moved files for video: https://www.youtube.com/watch?v=ebmAOcnUUaw
