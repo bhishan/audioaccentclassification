@@ -35,7 +35,7 @@ You can switch to any Hugging Face-compatible model for different tasks or label
 
 ```bash
 git clone https://github.com/yourusername/accent-classifier.git
-cd accent-classifier
+cd audioaccentclassification
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
