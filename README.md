@@ -1,6 +1,6 @@
 # 🗣️ English Accent Classifier from Video URL
 
-I am using **Streamlit web app** for the UI simplicity. The app can detect the **English accent** of a speaker from a **public video URL** (such as YouTube). The solution uses **transformer-based models** (like Wav2Vec2) from Hugging Face to classify accents, and supports flexible model/feature extractor replacement.
+I am using **Streamlit web app** for the UI simplicity. The app can detect the **English accent** of a speaker from a **public video URL** (such as YouTube). The solution uses **transformer-based models** (like Wav2Vec2) from Hugging Face to classify accents, and supports flexible model/feature extractor replacement. I am utilizing logging and directory operations (create/delete) therefore free hosting tools doesn't allow me to have full functionality. Please clone and run to experiment it. Additionally, example run screenshots are added to the this README.
 
 ---
 
@@ -34,7 +34,7 @@ You can switch to any Hugging Face-compatible model for different tasks or label
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/accent-classifier.git
+git clone https://github.com/bhishan/audioaccentclassification.git
 cd audioaccentclassification
 python3 -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
