@@ -89,3 +89,10 @@ Info level and warning logs can be found here. This can be used for debugging pu
 The log file is as follows:
 logs/accent_classification.log
 It records downloads, audio extraction, inference results, and errors.
+
+
+## Example Run Output
+![App Screenshot](screenshots/examplerun.png)
+
+## Example Log
+![App Screenshot](screenshots/examplelog.png)
