@@ -1,0 +1,8 @@
+streamlit==1.46.0
+torch==2.7.1
+torchaudio==2.7.1
+transformers==4.52.4
+librosa==0.11.0
+imageio-ffmpeg==0.6.0
+yt-dlp==2025.6.9
+scikit-learn==1.7.0
